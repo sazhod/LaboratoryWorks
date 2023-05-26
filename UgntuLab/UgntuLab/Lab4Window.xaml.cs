@@ -127,11 +127,18 @@ namespace UgntuLab
 
         private void CalcelateResult()
         {
-            string result = new DataTable().Compute($"{Text.Text}{CurrentText.Text}", null).ToString();
-
-            firstValue = result;
-            secondValue = "";
-            UpdateText();
+            try
+            {
+                string result = new DataTable().Compute($"{Text.Text}{CurrentText.Text}".Replace(',', '.'), null).ToString();
+                firstValue = result;
+                secondValue = "";
+                UpdateText();
+            }
+            catch
+            {
+                MessageBox.Show("Вы добились исключения.");
+                ClearData();
+            }
         }
 
         private void Result_Click(object sender, RoutedEventArgs e)
@@ -181,6 +188,21 @@ namespace UgntuLab
                 secondValue = UseFunc(value, secondValue);
             }
 
+            UpdateText();
+        }
+
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+            ClearData();
+        }
+
+        private void ClearData()
+        {
+            firstValue = "";
+            secondValue = "";
+            Text.Text = "";
+            CurrentText.Text = "";
+            action = Actions.Null;
             UpdateText();
         }
     }

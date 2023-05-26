@@ -47,7 +47,7 @@
         <Button Content="2nd" Grid.Column="0" Grid.Row="2" Style="{StaticResource CalcSpecButton}"/>
         <Button Content="П"  Grid.Column="1" Grid.Row="2" Style="{StaticResource CalcSpecButton}"/>
         <Button Content="е" Grid.Column="2" Grid.Row="2" Style="{StaticResource CalcSpecButton}"/>
-        <Button Content="CE" Grid.Column="3" Grid.Row="2" Style="{StaticResource CalcSpecButton}"/>
+        <Button Name="Clear" Click="Clear_Click" Content="CE" Grid.Column="3" Grid.Row="2" Style="{StaticResource CalcSpecButton}"/>
         <Button Name="Remove" Click="Remove_Click" Content="&lt;-" Grid.Column="4" Grid.Row="2" Style="{StaticResource CalcSpecButton}"/>
         <Button Content="x^2" Grid.Column="0" Grid.Row="3" Style="{StaticResource CalcSpecButton}"/>
         <Button Content="1/x" Grid.Column="1" Grid.Row="3" Style="{StaticResource CalcSpecButton}"/>

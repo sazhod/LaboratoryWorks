@@ -27,7 +27,7 @@ namespace UgntuLab
         private double t;
         private double f;
 
-        private Regex numberRegex = new Regex(@"^[0-9]*(?:\.[0-9]*)?$");
+        private Regex numberRegex = new Regex(@"^-?[0-9]*(?:\,[0-9]*)?$");
 
         public Lab2Window()
         {

@@ -1,0 +1,26 @@
+﻿<Window x:Class="UgntuLab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UgntuLab"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Button Name="Lab1Button" Click="Lab1Button_Click" Grid.Row="0" Margin="20" Content="Лабораторная работа #1 тут!"/>
+        <Button Name="Lab2Button" Click="Lab2Button_Click" Grid.Row="1" Margin="20" Content="Лабораторная работа #2 тут!"/>
+        <Button IsEnabled="False" Grid.Row="2" Margin="20" Content="Реализовано Лабораторных работах #1 и #2!!!"/>
+        <Button Name="Lab4Button" Click="Lab4Button_Click" Grid.Row="3" Margin="20" Content="Лабораторная работа #4 тут!"/>
+        <Button Name="Lab5Button" Click="Lab5Button_Click" Grid.Row="4" Margin="20" Content="Лабораторная работа #5 тут!"/>
+        <Button IsEnabled="False" Grid.Row="5" Margin="20" Content="Лабораторная работа #6 тут отсутсвует!"/>
+    </Grid>
+</Window>

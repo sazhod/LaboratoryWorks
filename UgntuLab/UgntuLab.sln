@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UgntuLab", "UgntuLab\UgntuL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab5", "..\lab5\lab5\lab5.csproj", "{8F366E26-6276-455D-9F77-5A072F65EAEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6_dll", "lab6\lab6_dll.csproj", "{DDFFE7B8-BAC2-4C44-94BC-1D94751633CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6_test", "lab6_test\lab6_test.csproj", "{41ACE508-A8E8-459A-B92B-BCB772A795A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8F366E26-6276-455D-9F77-5A072F65EAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F366E26-6276-455D-9F77-5A072F65EAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F366E26-6276-455D-9F77-5A072F65EAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFFE7B8-BAC2-4C44-94BC-1D94751633CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFFE7B8-BAC2-4C44-94BC-1D94751633CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFFE7B8-BAC2-4C44-94BC-1D94751633CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFFE7B8-BAC2-4C44-94BC-1D94751633CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41ACE508-A8E8-459A-B92B-BCB772A795A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41ACE508-A8E8-459A-B92B-BCB772A795A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41ACE508-A8E8-459A-B92B-BCB772A795A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41ACE508-A8E8-459A-B92B-BCB772A795A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

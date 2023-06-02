@@ -5886,24 +5886,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sazhod\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\229\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sazhod\\source\\repos\\LaboratoryWorks\\UgntuLab\\UgntuLab\\UgntuLab.csproj",
+      "projectUniqueName": "C:\\Users\\229\\source\\repos\\LaboratoryWorks\\UgntuLab\\UgntuLab\\UgntuLab.csproj",
       "projectName": "UgntuLab",
-      "projectPath": "C:\\Users\\Sazhod\\source\\repos\\LaboratoryWorks\\UgntuLab\\UgntuLab\\UgntuLab.csproj",
-      "packagesPath": "C:\\Users\\Sazhod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sazhod\\source\\repos\\LaboratoryWorks\\UgntuLab\\UgntuLab\\obj\\",
+      "projectPath": "C:\\Users\\229\\source\\repos\\LaboratoryWorks\\UgntuLab\\UgntuLab\\UgntuLab.csproj",
+      "packagesPath": "C:\\Users\\229\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\229\\source\\repos\\LaboratoryWorks\\UgntuLab\\UgntuLab\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sazhod\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\229\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5917,8 +5912,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Sazhod\\source\\repos\\LaboratoryWorks\\lab5\\lab5\\lab5.csproj": {
-              "projectPath": "C:\\Users\\Sazhod\\source\\repos\\LaboratoryWorks\\lab5\\lab5\\lab5.csproj"
+            "C:\\Users\\229\\source\\repos\\LaboratoryWorks\\lab5\\lab5\\lab5.csproj": {
+              "projectPath": "C:\\Users\\229\\source\\repos\\LaboratoryWorks\\lab5\\lab5\\lab5.csproj"
             }
           }
         }
@@ -5951,7 +5946,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

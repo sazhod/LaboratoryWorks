@@ -1,0 +1,12 @@
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\bin\Debug\net6.0\lab6_dll.deps.json
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\bin\Debug\net6.0\lab6_dll.dll
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\bin\Debug\net6.0\lab6_dll.pdb
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.csproj.AssemblyReference.cache
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.AssemblyInfoInputs.cache
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.AssemblyInfo.cs
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.csproj.CoreCompileInputs.cache
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.dll
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\refint\lab6_dll.dll
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\lab6_dll.pdb
+C:\Users\229\source\repos\LaboratoryWorks\UgntuLab\lab6\obj\Debug\net6.0\ref\lab6_dll.dll
